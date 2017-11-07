@@ -1,8 +1,8 @@
 $(document).on('pageinit', '#home', function () {
     var url = 'https://api.themoviedb.org/3/',
         mode = 'search/movie?',
-        movieName = '&query=Superman',
-        key = 'api_key=15e0b039102ad3deb32fd12cbe96d0f1'
+        movieName = '&query=il',
+        key = 'api_key=7ec79a52c5d2f76df639cd62c00a1301'
     language = '&language=en-US';
 
     $.ajax({
