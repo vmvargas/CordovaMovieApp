@@ -46,4 +46,9 @@ cordova run android
 ```
 
 ## Debug APK
+
 A debug APK was left here: `CordovaMovieApp/platforms/android/build/outputs/apk/android-debug.apk`
+
+## Preview
+
+![screenshot](screenshot.jpg)
