@@ -51,4 +51,4 @@ A debug APK was left here: `CordovaMovieApp/platforms/android/build/outputs/apk/
 
 ## Preview
 
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.jpg)
